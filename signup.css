@@ -1,0 +1,92 @@
+body{
+    background: linear-gradient(115deg, #ecc884, #d48baa);
+}
+.container>.div{
+    margin: auto;
+}
+.first-part{
+    height: 490px;
+    width: 400px;
+    background-color: rgb(204, 150, 68);
+    padding: 30px;
+    margin-left: 15%;
+
+}
+h6{
+    padding-left: 10%;
+    font-style: italic;
+
+}
+h2{
+    padding-left: 10%;
+    margin-top: 10%;
+
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+.second-part{
+    height: 510px;
+    width: 500px;
+    background-color: white;
+    margin-left: 50%;
+    margin-top: -43.1%;
+    padding: 20px;
+    margin-right: 90%;
+
+}
+
+h4{
+    margin-top: 10%;
+    padding-left: 120%;
+    margin-left: -70%;
+    font-size: 18px;
+}
+.second-part h1{
+
+margin-top: 20%;}
+h5{
+    padding-right: 10%;
+
+}
+
+button{
+    background-color: rgb(194, 194, 217);
+    margin-left: 38%;
+
+}
+
+
+
+
+h3{
+    padding-left: 150px;
+}
+ form{
+    padding-left: 35%;
+}
+input [type=text]{
+    background-color: rgb(101, 13, 13);
+    border: none;
+    display: flex;
+    color: white;
+
+}
+  
+
+p{
+    padding-left: 30%;
+    font-size: 12px;
+
+
+}
+button{
+    background-color: rgb(34, 10, 246);
+    color: white;
+}
+span{
+    color: blue;
+    font-size: 12px;
+}
