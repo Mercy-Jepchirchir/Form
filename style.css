@@ -12,6 +12,9 @@ body{
     margin-left: 15%;
 
 }
+h1{
+    color: #a0522d;
+}
 h6{
     padding-left: 5%;
     font-style: italic;
@@ -22,6 +25,7 @@ h2{
     padding-left:30%;
     margin-top: 10%;
     margin-left:-0.005%;
+    
 
 }
 
@@ -41,6 +45,7 @@ img{
 }
 h5{
     padding-right: 10%;
+    color: #a0522d;
     
 }
 h4{
